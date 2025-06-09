@@ -8,7 +8,7 @@
 ## 📝 Project Title
 **"Exploring Airline On-Time Performance: Analyzing Delays, Cancellations, and Predictive Factors for the Year 2005"**
 
-![aeroplane](aeroplane.jpg) <!-- Maternal health image -->
+![aeroplane](Images/aeroplane.jpg) <!-- Maternal health image -->
 
 ## 📊 Dataset Background
 Hello GitHub enthusiasts! My name is Adam, and I'm a master's student in Data Science. For my fourth entry in my GitHub repository, I have chosen to explore and analyze a dataset related to airline on-time performance, which is a crucial aspect of modern transportation. The dataset, collected from the 2009 ASA Statistical Computing and Graphics Data Expo, contains nearly **120 million records** detailing flight arrival and departure information for major carriers within the USA from **1987 to 2008**.
